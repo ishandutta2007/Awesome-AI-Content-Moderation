@@ -66,51 +66,51 @@ Commercial moderation APIs offer high scalability, broad multi-lingual coverage,
 
 Open-source projects allow developers, research teams, and privacy-focused enterprises to build self-hosted, offline-capable moderation pipelines without vendor lock-in.
 
-### 🌟 Open-Source Repositories (Sorted by GitHub Stars)
+### 🌟 Open-Source Repositories (Sorted by GitHub_Stars)
 
-1. **[NSFWJS](https://github.com/infinitered/nsfwjs)** [![GitHub stars](https://img.shields.io/github/stars/infinitered/nsfwjs?style=social&color=white)](https://github.com/infinitered/nsfwjs/stargazers)  
+1. **[NSFWJS](https://github.com/infinitered/nsfwjs)** [![GitHub_Stars](https://img.shields.io/github/stars/infinitered/nsfwjs?style=social&color=white)](https://github.com/infinitered/nsfwjs/stargazers)  
    *Client-side and server-side Node.js & TensorFlow.js library for fast NSFW image classification (drawing, hentai, neutral, sexy, porn).*
 
-2. **[Llama Guard / Llama Stack](https://github.com/meta-llama/llama-stack)** [![GitHub stars](https://img.shields.io/github/stars/meta-llama/llama-stack?style=social&color=white)](https://github.com/meta-llama/llama-stack/stargazers)  
+2. **[Llama Guard / Llama Stack](https://github.com/meta-llama/llama-stack)** [![GitHub_Stars](https://img.shields.io/github/stars/meta-llama/llama-stack?style=social&color=white)](https://github.com/meta-llama/llama-stack/stargazers)  
    *Meta's open-source LLM safety models (Llama Guard 3, Prompt Guard, CyberSecEval) for classifying toxic prompts, unsafe responses, and jailbreak attempts.*
 
-3. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
+3. **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=social&color=white)](https://github.com/guardrails-ai/guardrails/stargazers)  
    *Python framework for validating LLM inputs/outputs with structured guardrails, toxicity filtering, PII masking, and hallucination detection.*
 
-4. **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
+4. **[NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)** [![GitHub_Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social&color=white)](https://github.com/NVIDIA/NeMo-Guardrails/stargazers)  
    *NVIDIA's open toolkit for adding programmable safety guardrails (topical control, safety, security, profanity) between users and LLMs.*
 
-5. **[LLM Guard](https://github.com/protectai/llm-guard)** [![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
+5. **[LLM Guard](https://github.com/protectai/llm-guard)** [![GitHub_Stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social&color=white)](https://github.com/protectai/llm-guard/stargazers)  
    *Open security toolkit by Protect AI for sanitizing LLM prompts and completions against toxicity, NSFW content, prompt injection, and PII leakage.*
 
-6. **[NSFW Model](https://github.com/GantMan/nsfw_model)** [![GitHub stars](https://img.shields.io/github/stars/GantMan/nsfw_model?style=social&color=white)](https://github.com/GantMan/nsfw_model/stargazers)  
+6. **[NSFW Model](https://github.com/GantMan/nsfw_model)** [![GitHub_Stars](https://img.shields.io/github/stars/GantMan/nsfw_model?style=social&color=white)](https://github.com/GantMan/nsfw_model/stargazers)  
    *Open-source Keras/TensorFlow model trained to classify NSFW images into 5 distinct safety categories for fast server-side filtering.*
 
-7. **[Detoxify](https://github.com/unitaryai/detoxify)** [![GitHub stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social&color=white)](https://github.com/unitaryai/detoxify/stargazers)  
+7. **[Detoxify](https://github.com/unitaryai/detoxify)** [![GitHub_Stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=social&color=white)](https://github.com/unitaryai/detoxify/stargazers)  
    *PyTorch library for toxic comment classification with multi-label support (toxicity, severe toxicity, obscene, threat, insult, identity attack).*
 
-8. **[Perspective API Client & Tools](https://github.com/conversationai/perspectiveapi)** [![GitHub stars](https://img.shields.io/github/stars/conversationai/perspectiveapi?style=social&color=white)](https://github.com/conversationai/perspectiveapi/stargazers)  
+8. **[Perspective API Client & Tools](https://github.com/conversationai/perspectiveapi)** [![GitHub_Stars](https://img.shields.io/github/stars/conversationai/perspectiveapi?style=social&color=white)](https://github.com/conversationai/perspectiveapi/stargazers)  
    *Open tools and client libraries created by Jigsaw (Google) to detect toxic comments, host language models, and evaluate online conversation health.*
 
-9. **[Content Moderation Deep Learning](https://github.com/fcakyon/content-moderation-deep-learning)** [![GitHub stars](https://img.shields.io/github/stars/fcakyon/content-moderation-deep-learning?style=social&color=white)](https://github.com/fcakyon/content-moderation-deep-learning/stargazers)  
+9. **[Content Moderation Deep Learning](https://github.com/fcakyon/content-moderation-deep-learning)** [![GitHub_Stars](https://img.shields.io/github/stars/fcakyon/content-moderation-deep-learning?style=social&color=white)](https://github.com/fcakyon/content-moderation-deep-learning/stargazers)  
    *Deep learning framework using PyTorch and OpenCV for multi-modal moderation, covering nudity, violence, and profanity classification.*
 
-10. **[Awesome Safety Tools](https://github.com/roostorg/awesome-safety-tools)** [![GitHub stars](https://img.shields.io/github/stars/roostorg/awesome-safety-tools?style=social&color=white)](https://github.com/roostorg/awesome-safety-tools/stargazers)  
+10. **[Awesome Safety Tools](https://github.com/roostorg/awesome-safety-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/roostorg/awesome-safety-tools?style=social&color=white)](https://github.com/roostorg/awesome-safety-tools/stargazers)  
     *Directory of open tools for trust and safety, profanity filters, and behavioral classifiers for online platform safety.*
 
-11. **[Surge AI Toxicity Scanners](https://github.com/surge-ai/toxicity)** [![GitHub stars](https://img.shields.io/github/stars/surge-ai/toxicity?style=social&color=white)](https://github.com/surge-ai/toxicity/stargazers)  
+11. **[Surge AI Toxicity Scanners](https://github.com/surge-ai/toxicity)** [![GitHub_Stars](https://img.shields.io/github/stars/surge-ai/toxicity?style=social&color=white)](https://github.com/surge-ai/toxicity/stargazers)  
     *Dataset and evaluation benchmarks for social media toxicity, hate speech, profanity, and context-aware content moderation models.*
 
-12. **[LocalMod](https://github.com/KOKOSde/localmod)** [![GitHub stars](https://img.shields.io/github/stars/KOKOSde/localmod?style=social&color=white)](https://github.com/KOKOSde/localmod/stargazers)  
+12. **[LocalMod](https://github.com/KOKOSde/localmod)** [![GitHub_Stars](https://img.shields.io/github/stars/KOKOSde/localmod?style=social&color=white)](https://github.com/KOKOSde/localmod/stargazers)  
     *Self-hosted, offline-first FastAPI moderation service supporting text toxicity ensembles, NSFW vision models, PII detection, and prompt injection filters.*
 
-13. **[Safe Content AI](https://github.com/steelcityamir/safe-content-ai)** [![GitHub stars](https://img.shields.io/github/stars/steelcityamir/safe-content-ai?style=social&color=white)](https://github.com/steelcityamir/safe-content-ai/stargazers)  
+13. **[Safe Content AI](https://github.com/steelcityamir/safe-content-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/steelcityamir/safe-content-ai?style=social&color=white)](https://github.com/steelcityamir/safe-content-ai/stargazers)  
     *FastAPI wrapper around vision transformers and NSFW classifiers for easily deploying private image moderation endpoints.*
 
-14. **[moderators](https://github.com/viddexa/moderators)** [![GitHub stars](https://img.shields.io/github/stars/viddexa/moderators?style=social&color=white)](https://github.com/viddexa/moderators/stargazers)  
+14. **[moderators](https://github.com/viddexa/moderators)** [![GitHub_Stars](https://img.shields.io/github/stars/viddexa/moderators?style=social&color=white)](https://github.com/viddexa/moderators/stargazers)  
     *Unified CLI and Python API wrapper for running HuggingFace text and image safety models with standardized JSON outputs.*
 
-15. **[OpenGuard AI](https://github.com/wispas/openguardai)** [![GitHub stars](https://img.shields.io/github/stars/wispas/openguardai?style=social&color=white)](https://github.com/wispas/openguardai/stargazers)  
+15. **[OpenGuard AI](https://github.com/wispas/openguardai)** [![GitHub_Stars](https://img.shields.io/github/stars/wispas/openguardai?style=social&color=white)](https://github.com/wispas/openguardai/stargazers)  
     *Open multimodal content safety framework for automated content moderation pipelines.*
 
 ---
@@ -144,7 +144,7 @@ Projects like **NSFWJS** (JavaScript/Node.js) or **LocalMod** / **Safe Content A
 
 1. Fork this repository.
 2. Edit `README.md` to add or update relevant tools.
-3. Ensure entries maintain factual details, official links, and accurate star badges.
+3. Ensure entries maintain factual details, official links, and accurate Stars_Badges.
 4. Submit a Pull Request.
 
 ---
@@ -169,4 +169,4 @@ If you find this curated list helpful for your trust & safety research or engine
 
 ## ⚠️ Disclaimer
 
-This repository is community-curated for informational purposes. Product specifications, pricing, and GitHub star counts are subject to change.
+This repository is community-curated for informational purposes. Product specifications, pricing, and GitHub Stars_Counts are subject to change.
