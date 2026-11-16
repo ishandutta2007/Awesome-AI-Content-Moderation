@@ -59,6 +59,7 @@ Commercial moderation APIs offer high scalability, broad multi-lingual coverage,
 | **[Checkstep](https://www.checkstep.com/)** | Flexible policy engine & AI content moderation workflow platform integrating open and proprietary AI models. | **~$10M–$25M** (Valuation) / **$9.1M** Funding | **$0.0008 per text request**; tiered usage pricing | **14-day free trial** with up to 10,000 free API test calls |
 | **[Sightengine](https://sightengine.com/)** | Real-time image, video, and text moderation API for NSFW filtering, face detection, nudity, and user safety. | **~$10M–$20M** ARR (Profitable SaaS) | **$29/month** (Starter tier for 10,000 operations; extra ops at $0.002) | **2,000 operations per month** (max 500 ops/day) free forever |
 | **[WebPurify](https://webpurify.com/)** | Profanity filtering API, automated photo/video moderation, and hybrid human-in-the-loop review teams. | **~$5M–$10M** ARR (Bootstrapped) | **$5/month** (Profanity filter for 10,000 requests); **$0.005/image** photo moderation | **14-day free trial** (Profanity) & **100 free photo moderations** |
+| **[Decision Models Moderation](https://moderation.decisionmodels.io)** | EU-hosted text moderation (Beta), Perspective-shaped endpoint, custom rules; independent scores need threshold re-tuning | Not disclosed | **EUR 29/month** Starter; **EUR 99/month** Pro (net, VAT where applicable) | **10,000 texts/month** |
 
 ---
 
